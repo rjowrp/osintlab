@@ -1,0 +1,319 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Real vs Fake",
+              "type": "folder",
+              "status": "0"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Location",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Personal Details",
+                      "type": "folder",
+                      "status": "1"
+                    }
+                  ],
+                  "name": "Trackback",
+                  "type": "folder",
+                  "status": "1"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Activity Pattern",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Narrative Tilt",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Network Associations",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Key Anomalies",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Authenticity",
+                      "type": "folder",
+                      "status": "1"
+                    }
+                  ],
+                  "name": "Time Line",
+                  "type": "folder",
+                  "status": "1"
+                }
+              ],
+              "name": "Actor",
+              "type": "folder",
+              "status": "1"
+            }
+          ],
+          "name": "Source",
+          "type": "folder",
+          "status": "1"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Audio Forensics",
+                  "type": "folder",
+                  "status": "1"
+                },
+                {
+                  "name": "Image/Video Forensics",
+                  "type": "folder",
+                  "status": "1"
+                },
+                {
+                  "name": "Textual Analysis",
+                  "type": "folder",
+                  "status": "1"
+                }
+              ],
+              "name": "Content",
+              "type": "folder",
+              "status": "1"
+            }
+          ],
+          "name": "Narrative",
+          "type": "folder",
+          "status": "1"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Twitter",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Facebook",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Youtube",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Telegram",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Instagram",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "TikTok",
+                      "type": "folder",
+                      "status": "1"
+                    },
+                    {
+                      "name": "WhatsApp",
+                      "type": "folder",
+                      "status": "1"
+                    }
+                  ],
+                  "name": "Social Networks",
+                  "type": "folder",
+                  "status": "1"
+                },
+                {
+                  "name": "World Wide Web",
+                  "type": "folder",
+                  "status": "0"
+                }
+              ],
+              "name": "Online",
+              "type": "folder",
+              "status": "1"
+            },
+            {
+              "name": "Offline",
+              "type": "folder",
+              "status": "0"
+            }
+          ],
+          "name": "Medium",
+          "type": "folder",
+          "status": "1"
+        }
+      ],
+      "name": "Guiding Schema",
+      "type": "folder",
+      "status": "1"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Twitonomy",
+                      "type": "url",
+                      "url": "https://www.twitonomy.com/dashboard.php",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Social Bearing",
+                      "type": "url",
+                      "url": "https://socialbearing.com/",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Tweeter ID",
+                      "type": "url",
+                      "url": "https://tweeterid.com/",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Twitter Audit",
+                      "type": "url",
+                      "url": "https://twitteraudit.com/",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Tweet Beaver",
+                      "type": "url",
+                      "url": "https://tweetbeaver.com/",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Follower Analysis",
+                      "type": "url",
+                      "url": "https://sparktoro.com/tools/fake-followers-audit",
+                      "status": "1"
+                    }
+                  ],
+                  "name": "Profiling",
+                  "type": "folder",
+                  "status": "1"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "By Date",
+                      "type": "url",
+                      "url": "https://twitter.com/search?q=%22Pakistan%20Army%22%2C%20since%3A2022-10-01%2C%20until%3A2022-10-31&src=typed_query&f=live",
+                      "status": "1"
+                    },
+                    {
+                      "name": "Filtered by Media",
+                      "type": "url",
+                      "url": "https://twitter.com/search?q=%22Pakistani%20Children%22%20since_time%3A1641816000%20until_time%3A1641902400%20filter%3Amedia&src=typed_query&f=live",
+                      "status": "1"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Unix Time",
+                          "type": "url",
+                          "url": "https://www.unixtimestamp.com/",
+                          "status": "1"
+                        },
+                        {
+                          "name": "By Time",
+                          "type": "url",
+                          "url": "https://twitter.com/search?q=%22Pakistani%20Children%22%20since_time%3A1641816000%20until_time%3A1641902400&src=typed_query&f=live",
+                          "status": "1"
+                        }
+                      ],
+                      "name": "",
+                      "type": "folder",
+                      "status": "1"
+                    }
+                  ],
+                  "name": "Search",
+                  "type": "folder",
+                  "status": "1"
+                }
+              ],
+              "name": "Twitter",
+              "type": "folder",
+              "status": "1"
+            },
+            {
+              "name": "Facebook",
+              "type": "folder",
+              "status": "0"
+            },
+            {
+              "name": "TikTok",
+              "type": "folder",
+              "status": "0"
+            }
+          ],
+          "name": "Platform Analytics",
+          "type": "folder",
+          "status": "1"
+        },
+        {
+          "children": [
+            {
+              "name": "Talkwalker",
+              "type": "url",
+              "url": "https://www.talkwalker.com/",
+              "status": "0"
+            },
+            {
+              "name": "Hoaxy",
+              "type": "url",
+              "url": "https://hoaxy.osome.iu.edu/",
+              "status": "0"
+            },
+            {
+              "name": "Netlytics",
+              "type": "url",
+              "url": "https://netlytic.org/index.php",
+              "status": "0"
+            }
+          ],
+          "name": "Network Probe",
+          "type": "folder",
+          "status": "0"
+        }
+      ],
+      "name": "Investigation",
+      "type": "folder",
+      "status": "1"
+    },
+    {
+      "name": "Counter-Narrative",
+      "type": "folder",
+      "status": "1"
+    }
+  ],
+  "name": "SM Operations",
+  "type": "folder",
+  "status": "1"
+}

@@ -1,0 +1,51 @@
+/* body {
+  background-color: #ffffff;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica;
+}
+*/
+#body {
+  margin: 0 auto;
+  position: relative;
+  margin-top: 50px;
+} 
+
+/* #header {
+  font-size: 40px;
+  font-weight: bold;
+  top: 20px;
+  text-align: center;
+} */
+
+.legend {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 330px;
+  font-size: 10px;
+  color: #000;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #dfe00e !important;
+  stroke: #dfe00e;
+  /* stroke-width: 1px; */
+}
+
+.node text {
+  font-size: 13.5px;
+  font-weight: 600;
+  fill: #ffffff;
+  /* text-shadow: 1px 1px #ffffff; */
+}
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1px;
+}

@@ -1,0 +1,586 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+    "children": [
+    {
+        "name": "Real vs Fake",
+        "type": "folder"
+        },
+        {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Location",
+              "type": "folder"
+            },
+            {
+              "name": "Personal Details",
+              "type": "folder"
+        }],
+          "name": "Trackback",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Activity Pattern",
+              "type": "folder"
+            },
+            {
+              "name": "Narrative Tilt",
+              "type": "folder"
+            },
+            {
+              "name": "Network Associations",
+              "type": "folder"
+            },
+            {
+              "name": "Key Anomalies",
+              "type": "folder"
+            },
+            {
+              "name": "Authenticity",
+              "type": "folder"
+            }],
+          "name": "Time Line",
+          "type": "folder"
+        }],      
+      "name": "Actor",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Topology",
+          "type": "folder"
+        },
+        {
+          "name": "Community Structure",
+          "type": "folder"
+        },
+        {
+          "name": "Statistical Properties",
+          "type": "folder"
+        },
+        {
+          "name": "Dynamics",
+          "type": "folder"
+        }],
+      "name": "Network",
+      "type": "folder"
+    }],
+    "name": "Source",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "Audio Forensics",
+            "type": "folder"
+          },
+          {
+            "name": "Image/Video Forensics",
+            "type": "folder"
+          },
+          {
+            "name": "Textual Analysis",
+            "type": "folder"
+          }],
+          "name": "Content",
+          "type": "folder"
+      },
+      {
+        "name": "Intention",
+        "type": "folder"
+      },
+      {
+        "name": "Sentiment",
+        "type": "folder"
+      },
+      {
+        "name": "Target Audience",
+        "type": "folder"
+      },
+      {
+        "name": "Dynamics",
+        "type": "folder"      
+      }],
+    "name": "Narrative",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "name": "Twitter",
+                "type": "folder"
+              },
+              {
+                "name": "Facebook",
+                "type": "folder"
+              },
+              {
+                "name": "Youtube",
+                "type": "folder"
+              },
+              {
+                "name": "Telegram",
+                "type": "folder"
+              },
+              {
+                "name": "Instagram",
+                "type": "folder"
+              },
+              {
+                "name": "TikTok",
+                "type": "folder"
+              },
+              {
+                "name": "WhatsApp",
+                "type": "folder"
+              }],
+              "name": "Social Networks",
+              "type": "folder"
+          },
+          {
+            "name": "World Wide Web",
+            "type": "folder"
+          }],
+          "name": "Online",
+          "type": "folder"
+      },
+      {
+        "children": [
+          {
+            "name": "Electronic",
+            "type": "folder"
+          },
+          {
+            "name": "Print",
+            "type": "folder"
+          }],
+          "name": "Offline",
+          "type": "folder"
+      }],
+      "name": "Medium",
+      "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "Audience",
+            "type": "folder"
+          },
+          {
+            "name": "Message",
+            "type": "folder"
+          },
+          {
+            "name": "Medium",
+            "type": "folder"
+          },
+          {
+            "name": "Messenger",
+            "type": "folder"
+          }],
+        "name": "Counter Narrative",
+        "type": "folder"
+      },
+      {
+        "children": [
+          {
+            "name": "Monitory",
+            "type": "folder"
+          },
+          {
+            "name": "Force",
+            "type": "folder"
+          },
+          {
+            "name": "Honey-trap",
+            "type": "folder"
+          }],
+        "name": "Co-opt",
+        "type": "folder"
+      },
+      {
+        "name": "Legal",
+        "type": "folder"
+      },
+      {
+        "name": "Kinetic",
+        "type": "folder"
+      }],
+      "name": "Response",
+      "type": "folder"
+      }],
+  "name": "Guiding Schema",
+  "type": "folder"
+      },
+      {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                              "name": "Twitonomy",
+                              "type": "url",
+                              "url": "https://www.twitonomy.com/dashboard.php"
+                              },
+                              {
+                                "name": "Social Bearing",
+                                "type": "url",
+                                "url": "https://socialbearing.com/"
+                                },
+                                {
+                                  "name": "Tweeter ID",
+                                  "type": "url",
+                                  "url": "https://tweeterid.com/"
+                                  },
+                                  {
+                                    "name": "Twitter Audit",
+                                    "type": "url",
+                                    "url": "https://twitteraudit.com/"
+                                  },
+                                  {
+                                    "name": "Tweet Beaver",
+                                    "type": "url",
+                                    "url": "https://tweetbeaver.com/"
+                                  },
+                                  {
+                                    "name": "Follower Analysis",
+                                    "type": "url",
+                                    "url": "https://sparktoro.com/tools/fake-followers-audit"                                                              
+                      }],
+                        "name": "Profiling",
+                        "type": "folder"
+                      },
+                      {
+                        "children": [
+                          {
+                            "name": "By Date",
+                            "type": "url",
+                            "url": "https://twitter.com/search?q=%22Pakistan%20Army%22%2C%20since%3A2022-10-01%2C%20until%3A2022-10-31&src=typed_query&f=live"
+                          },
+                          {
+                            "name": "By Time",
+                            "type": "url",
+                            "url": "https://twitter.com/search?q=%22Pakistani%20Children%22%20since_time%3A1641816000%20until_time%3A1641902400&src=typed_query&f=live"
+                      }],
+                        "name": "Search",
+                        "type": "folder"
+                  }],
+                    "name": "Twitter",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Facebook",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "TikTok",
+                    "type": "folder"
+                    }],
+                "name": "Platform Analytics",
+                "type": "folder"
+              },
+              {
+                "children": [
+                  {
+                    "name": "Talkwalker",
+                    "type": "url",
+                    "url": "https://www.talkwalker.com/"
+                  },
+                  {
+                    "name": "Hoaxy",
+                    "type": "url",
+                    "url": "https://hoaxy.osome.iu.edu/"
+                  },
+                  {
+                    "name": "Netlytics",
+                    "type": "url",
+                    "url": "https://netlytic.org/index.php"
+
+                  
+              }],
+                "name": "Network Probe",
+                "type": "folder"
+              },
+              {
+                "name":"Data-driven Insights",
+                "type": "folder"
+              },
+              {
+                "name": "Forensics",
+                "type": "folder"
+              },
+              {
+                "name": "Active OSINT",
+                "type": "folder"
+              }],
+      "name": "Investigation",
+      "type": "folder"
+      },
+      {
+        "children": [
+          {
+            "children":[
+              {
+                "children": [
+                  {
+                    "name": "Foreign Affairs",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Social Issues",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Political Issues",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Economic Issues",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Military Procurement",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Technology",
+                    "type": "folder"
+                  }],
+
+                "name": "Perpetual",
+                "type": "folder"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "name": "Political",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "Social",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "Economics",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "Technology",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "Military",
+                        "type": "folder"
+                      }],
+                    "name": "Actionable News",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Calendar Events",
+                    "type": "folder"
+                  }],
+                "name": "Developmental",
+                "type": "folder"
+              }],              
+            "name": "Cardinals",
+            "type": "folder"
+          },
+          {
+            "children":[
+              {
+                "children":[
+                  {
+                    "name": "Balochistan",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "KPK",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Urban Sindh",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Rural Sindh",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Urban Punjab",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Rural Punjab",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Northern Areas",
+                    "type": "folder"
+                  }],
+                "name": "Domestic",
+                "type": "folder"
+              },
+              {
+                "children":[
+                  {
+                    "name": "India",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Afghanistan",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "USA",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "Europe",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "China",
+                    "type": "folder"
+                  }],
+                "name": "Foreign",
+                "type": "folder"
+              }],
+            "name": "Spectrum",
+            "type": "folder"
+          },
+          {
+            "children":[
+              {
+                "children":[
+                  {
+                    "name": "Create positive perception",
+                    "folder": "type"
+                  },
+                  {
+                    "name": "Nullify negative domestic narratives",
+                    "folder": "type"
+                  },
+                  {
+                    "name": "Nullify negative foreign narratives",
+                    "type": "folder"
+                  }],
+                "name": "Domestic",
+                "folder": "type"
+              },
+              {
+                "children":[
+                  {
+                    "name": "Create perception to own advantage",
+                    "folder": "type"
+                  },
+                  {
+                    "name": "Make communication channels noisy",
+                    "folder": "type"
+                  }], 
+                "name": "Foreign",
+                "folder": "type"
+              }], 
+            "name": "Intention",
+            "type": "folder"
+          },
+          {
+            "children":[
+              {
+                "name": "Twitter",
+                "folder": "type"
+              },
+              {
+                "name": "Facebook",
+                "folder": "type"
+              },
+              {
+                "name": "TikTok",
+                "type": "folder"
+              },
+              {
+                "name": "Snack",
+                "type": "folder"
+              },
+              {
+                "name": "Youtube",
+                "type": "folder"
+              },
+              {
+                "name": "WhatsApp",
+                "type": "folder"
+              }], 
+            "name": "Medium",
+            "type": "folder"
+          },
+          {
+            "children":[
+              {
+                "name": "Text",
+                "folder": "type"
+              },
+              {
+                "name": "Poster",
+                "folder": "type"
+              },
+              {
+                "name": "Infographic",
+                "type": "folder"
+              },
+              {
+                "name": "Cartoon",
+                "type": "folder"
+              },
+              {
+                "name": "Video",
+                "type": "folder"
+              }], 
+            "name": "Message",
+            "type": "folder"
+          },
+          {
+            "children":[
+              {
+                "name": "Influencer",
+                "folder": "type"
+              },
+              {
+                "name": "Sock Puppet",
+                "folder": "type"
+              },
+              {
+                "name": "Botnet",
+                "type": "folder"
+              },
+              {
+                "name": "Mercenary",
+                "type": "folder"
+              }], 
+            "name": "Messenger",
+            "type": "folder"
+          }],        
+        "name": "Counter-Narrative",
+        "type": "folder"
+      }],
+      "name": "SM Ops",
+      "type": "folder"
+}
